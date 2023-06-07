@@ -86,7 +86,6 @@ or
 ````
 sh script.sh download https://youtu.be/XlSAO9Ff2Yk 1080 thumbnail
 ````
-````
 ### Downloading a video with subtitles:
 ````
 sh script.sh Download https://youtu.be/XlSAO9Ff2Yk 1080 Subtitle
