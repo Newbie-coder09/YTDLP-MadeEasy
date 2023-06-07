@@ -98,7 +98,6 @@ or
 ````
 sh script.sh download https://youtu.be/XlSAO9Ff2Yk 1080 subtitle
 ````
-````
 ### Downloading a video with splitted chapters:
 ````
 sh script.sh Download https://youtu.be/XlSAO9Ff2Yk 1080 Chapter
