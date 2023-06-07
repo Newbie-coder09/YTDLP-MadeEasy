@@ -121,7 +121,6 @@ sh script.sh Playlist https://www.youtube.com/playlist?list=PLGNBsFe6K3EswJDg22T
 ````
 
 ## Conclusion:
-Many people find it hard to remember complex commands like ```` yt-dlp -f 'bv*[height=1080]+ba' https://youtu.be/XlSAO9Ff2Y
- ```` so, we've created this script that works on YT-DLP internally, and it does work perfectly without complex commands.
+Many people find it hard to remember complex commands like "yt-dlp -f 'bv*[height=1080]+ba' https://youtu.be/XlSAO9Ff2Y" so, we've created this script that works on YT-DLP internally, and it does work perfectly without complex commands.
 You can get the script from files sections of this page.
 Kindly check our other repositories as well, Thanks.
