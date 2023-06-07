@@ -29,7 +29,7 @@ But if it does not, please install it manually from here: https://github.com/yt-
 Please install FFmpeg manually: https://www.videoproc.com/resource/how-to-install-ffmpeg.htm
 
 ## Available Commands:
-### Updating YT_DLP:
+### Updating YT-DLP:
 ````
 sh script.sh Update
 ````
