@@ -29,6 +29,9 @@ But if it does not, please install it manually from here: https://github.com/yt-
 Please install FFmpeg manually: https://www.videoproc.com/resource/how-to-install-ffmpeg.htm
 
 ## Available Commands:
+### Notes:
+* Open Terminal or Command Propt where the script is located and then type these commands.
+* Replace sh in beginning of these commands with bash in Windows.
 ### Updating YT-DLP:
 ````
 sh script.sh Update
