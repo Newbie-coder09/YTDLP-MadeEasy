@@ -15,3 +15,13 @@ This program will automatically install YT-DLP upon running the check command:
 ````
 sh script.sh Check
 ````
+or
+````
+sh script.sh C
+````
+or
+````
+sh script.sh check
+````
+
+But if it does not, please install it manually from here: https://github.com/yt-dlp/yt-dlp/releases
