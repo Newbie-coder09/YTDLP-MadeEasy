@@ -12,5 +12,6 @@ This is a shell script written to solve the problem of remembering YT-DLP comman
 
 ## Requirements:
 This program will automatically install YT-DLP upon running the check command:
-
-  sh script.sh Check
+````
+sh script.sh Check
+````
