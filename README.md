@@ -54,15 +54,15 @@ sh script.sh cookies PATH_TO_COOKIES.TXT
 ````
 ### Checking available video qualities:
 ````
-sh script.sh Quality
+sh script.sh Quality https://youtu.be/XlSAO9Ff2Yk
 ````
 or
 ````
-sh script.sh q
+sh script.sh q https://youtu.be/XlSAO9Ff2Yk
 ````
 or
 ````
-sh script.sh quality
+sh script.sh quality https://youtu.be/XlSAO9Ff2Yk
 ````
 ### Downloading a video:
 ````
