@@ -31,7 +31,7 @@ Please install FFmpeg manually: https://www.videoproc.com/resource/how-to-instal
 ## Available Commands:
 ### Notes:
 * Open Terminal in the directory where the script is located and then type these commands.
-* Windows is not supported yet.
+* You need to use Linux Subsystem for Windows to run it in Windows.
   
 ### Updating YT-DLP:
 ````
